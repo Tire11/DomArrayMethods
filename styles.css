@@ -1,0 +1,14 @@
+hr {
+  border: 1px solid #000;
+}
+.cta-btn {
+  margin-right: 10px;
+}
+
+@media (max-width: 812px) {
+  .cta-btn {
+    margin-bottom: 15px;
+    margin-right: 10px;
+    width: 100%;
+  }
+}
