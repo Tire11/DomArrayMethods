@@ -14,12 +14,15 @@ hr {
 }
 
 @media (min-width: 813px) {
-  .container {
+  .container div {
+    text-align: center;
+  }
+  #mainSection {
     width: 50%;
+    margin: auto;
   }
   .cta-btn {
-    width: 50%;
-    margin-left: 150px;
-    margin-bottom: 20px;
+    font-size: 12px;
   }
 }
+
