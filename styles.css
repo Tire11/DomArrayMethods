@@ -12,3 +12,14 @@ hr {
     width: 100%;
   }
 }
+
+@media (min-width: 813px) {
+  .container {
+    width: 50%;
+  }
+  .cta-btn {
+    width: 50%;
+    margin-left: 150px;
+    margin-bottom: 20px;
+  }
+}
